@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# En defensa de la UMA
+# Colectivo de Profesorado Ayudante Doctor en Defensa de la UMA
 
-Bienvenidos a esta página de información, reflexión y acción para la comunidad universitaria.
+Bienvenid@s a esta página de información, reflexión y acción para la comunidad universitaria.
 
 Aquí iremos publicando contenidos, enlaces y noticias relevantes.
