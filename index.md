@@ -2,19 +2,17 @@
 layout: default
 ---
 
-<head>
-  <style>
-    /* Oculta el botón "View on GitHub" */
-    .github-corner {
-      display: none !important;
-    }
+<style>
+  /* Oculta el botón "View on GitHub" */
+  .github-corner {
+    display: none !important;
+  }
 
-    /* Oculta el pie de página de GitHub Pages */
-    footer {
-      display: none !important;
-    }
-  </style>
-</head>
+  /* Oculta el pie de página de GitHub Pages */
+  footer {
+    display: none !important;
+  }
+</style>
 
 # Colectivo de Profesorado Ayudante Doctor en Defensa de la UMA
 
