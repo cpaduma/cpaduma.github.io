@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<head>
+  <style>
+    /* Oculta el botón "View on GitHub" */
+    .github-corner {
+      display: none !important;
+    }
+
+    /* Oculta el pie de página de GitHub Pages */
+    footer {
+      display: none !important;
+    }
+  </style>
+</head>
+
 # Colectivo de Profesorado Ayudante Doctor en Defensa de la UMA
 
 Bienvenid@s a esta página de información, reflexión y acción para la comunidad universitaria.
