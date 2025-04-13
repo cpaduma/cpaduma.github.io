@@ -3,11 +3,12 @@ layout: default
 ---
 
 <style>
-  /* Oculta el botón "View on GitHub" */
-  .github-corner {
-    display: none !important;
-  }
+.github-corner {
+  display: none !important;
+}
+</style>
 
+<style>
   /* Oculta el pie de página de GitHub Pages */
   footer {
     display: none !important;
