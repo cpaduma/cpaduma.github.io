@@ -101,4 +101,14 @@ body {
     p {
       text-align: justify;
     }  
+
+.carousel-inner {
+  height: 500px; /* Puedes ajustar la altura */
+}
+
+.carousel-inner img {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
       
